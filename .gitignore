@@ -1,0 +1,28 @@
+# 爬取的评论文件（太大，不上传）
+leetcode_comments_output/
+
+# 测试文件
+test_crawler.py
+test_5_problems.txt
+debug_vip.py
+debug_page.py
+quick_test.py
+run_search.py
+matched_problems.txt
+search_results.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
